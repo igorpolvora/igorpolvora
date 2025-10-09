@@ -1,5 +1,5 @@
 # 👾 About Me:
-👋 Hey there! I'm Igor<br><br>I'm a Software Engineering student passionate about building cool and useful stuff with code.<br>I love diving into both front-end and back-end, crafting clean UIs with React and writing solid back-end logic in Java.<br><br>When I'm not coding, you’ll probably find me training at the gym, exploring tech trends, or reading something deep (like Dostoevsky or fantasy worlds 🐉).<br><br>I believe in constant learning, clean code, and balancing theory with real-world practice.<br>Right now, I’m focused on improving my Java + Spring Boot, React, and software architecture skills.<br><br>💡 Always building, always learning.
+👋 Hey there! I'm Igor<br><br>I'm a Software Engineering student passionate about building cool and useful stuff with code.<br>I love diving into both front-end and back-end, crafting clean UIs with React and writing solid back-end logic in Java.<br>><br>I believe in constant learning, clean code, and balancing theory with real-world practice.<br>Right now, I’m focused on improving my Java + Spring Boot, React, and software architecture skills.<br><br>💡 Always building, always learning.
 
 
 ## 🌐 Socials:
