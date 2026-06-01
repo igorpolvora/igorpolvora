@@ -9,7 +9,6 @@
 <p align="left">
 > name:   "Igor Polvora"<br>
 > role:   "Software Engineer"<br>
-> focus:  "Backend"
 </p>
 
 ###
