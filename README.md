@@ -36,19 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-###
-
-<p align="left">igor@github: ~\Profile\Stats$ ls</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="150" />
-</div>
-
-###
-
 <p align="left">igor@github: ~\Profile\Contact$ ls</p>
 
 ###
