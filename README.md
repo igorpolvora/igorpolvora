@@ -1,68 +1,45 @@
-<!-- Header -->
-<div align="center">
+<p align="center">Hello World!!</p>
 
-```bash
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   igor@github:~$ cat profile.json                        ║
-║                                                          ║
-║   > name:     "Igor Polvora"                             ║
-║   > role:     "Full-Stack Developer"                     ║
-║   > location: "Bahia, Brasil 🇧🇷"                        ║
-║   > focus:    "Java Backend + React Frontend"            ║
-║   > status:   "open_to_work: true"                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+###
 
+<p align="left">igor@github: ~\Profile$ ls</p>
+
+###
+
+<p align="left">> name:   "Igor Polvora"<br>> role:   "Software Engineer"<br>> focus:  "Backend"</p>
+
+###
+
+<p align="left">igor@github: ~\Profile\Skills$ ls</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
----
+###
 
-## `igor@github:~$ ls ./skills/`
+<p align="left">igor@github: ~\Profile\Skills\SocialMedia$ ls</p>
 
-### Backend
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+###
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## `igor@github:~$ ./show-stats.sh`
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=57c454&icon_color=57c454&text_color=8b949e)](https://github.com/SEU_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=57c454&text_color=8b949e)](https://github.com/SEU_USERNAME)
-
----
-
-## `igor@github:~$ ls ./projects/`
-
-```bash
-📦 java-roadmap-tracker    → Checklist interativo Java/Spring (Júnior → Expert)
-🌐 portfolio               → Portfolio dark-themed pessoal
-🖥️  dev-environment-setup  → Guia de ambiente Ubuntu full stack
-```
-
----
-
-## `igor@github:~$ echo $CONTACT`
-
-```bash
-> LinkedIn:  linkedin.com/in/SEU_PERFIL
-> E-mail:    seuemail@gmail.com
-> Status:    🟢 Disponível para oportunidades
-```
-
-<!-- cursor piscando via GitHub Actions badge (sem JS) -->
-![](https://img.shields.io/badge/_%E2%96%88-57c454?style=flat-square&labelColor=0d1117)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
