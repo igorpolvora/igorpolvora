@@ -1,5 +1,5 @@
 <p align="center">Hello World!!</p>
----
+
 ###
 
 <p align="left">igor@github: ~\Profile$ ls</p>
@@ -55,7 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
-###
 
 <p align="left">igor@github: ~\Profile\Skills\Tec$ ls</p>
 
